@@ -1,0 +1,43 @@
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (1, 'Nossa Senhora do Amor Divino', 3, 1);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (2, 'São Pedro de Alcântara', 3, 2);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (3, 'Santa Teresa DÁvila', 3, 3);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (4, 'São José de Anchieta', 3, 4);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (5, '🤔 Não sei dizer', 3, 5);
+
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (6, 'Coordenador(a) de Grupo de Oração', 7, 1);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (7, 'Servo(a) de Núcleo de Grupo de Oração', 7, 2);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (8, 'Ainda não estou servindo.', 7, 3);
+
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (9, 'Comunicação Social', 8, 1);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (10, 'Crianças e Adolescentes', 8, 2);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (11, 'Cristo Sacerdote', 8, 3);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (12, 'Cura e Libertação', 8, 4);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (13, 'Famílias', 8, 5);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (14, 'Fé e Política', 8, 6);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (15, 'Formação', 8, 7);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (16, 'Intercessão', 8, 8);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (17, 'Jovem', 8, 9);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (18, 'Música e Artes', 8, 9);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (19, 'Pregação', 8, 10);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (20, 'Promoção Humana [incluindo acolhida]', 8, 11);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (21, 'Religiosas', 8, 12);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (22, 'Seminaristas', 8, 13);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (23, 'Universidades Renovadas', 8, 14);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (24, '🤔 Ainda não estou servindo em um ministério', 8, 15);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (25, 'Comunicação Social', 8, 16);
+
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (26, 'Crianças e Adolescentes', 9, 1);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (27, 'Cristo Sacerdote', 9, 2);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (28, 'Cura e Libertação', 9, 3);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (29, 'Famílias', 9, 4);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (30, 'Fé e Política', 9, 5);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (31, 'Formação', 9, 6);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (32, 'Intercessão', 9, 7);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (33, 'Jovem', 9, 8);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (34, 'Música e Artes', 9, 9);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (35, 'Pregação', 9, 10);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (36, 'Promoção Humana [incluindo acolhida]', 9, 11);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (37, 'Religiosas', 9, 12);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (38, 'Seminaristas', 9, 13);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (39, 'Universidades Renovadas', 9, 14);
+INSERT INTO "question_options" ("id", "text", "question_id", "order") VALUES (40, '🤔 Ainda não estou servindo em um ministério', 9, 15);
