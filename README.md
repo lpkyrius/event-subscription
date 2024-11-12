@@ -1,4 +1,5 @@
 # Event Subscription
+This is an application for events subscription. Initially, it's similar to Google Forms and others where questions are loaded. But also products are listed with their prices, and a total is calculated based on the quantities selected.
 
 
 ## Generated here
@@ -42,6 +43,3 @@ Project Structure
 1. Install the dependencies with pip install -r requirements.txt.
 2. Start the server with uvicorn app.main:app --reload.
 3. Access the application at http://127.0.0.1:8000/static/form.html.
-
-This framework provides a basic application where questions are loaded, products are listed with their prices, and a total is calculated based on the quantities selected.
-
